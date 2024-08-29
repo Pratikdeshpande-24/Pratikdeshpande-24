@@ -1,4 +1,4 @@
-### About Me
+## About Me
 
 Hello! 👋 I'm Pratik Deshpande, a Service Analyst with over 5 years of experience in IT service and analytics. I’m passionate about turning data into actionable insights and crafting visual stories that drive business growth.
 
@@ -13,8 +13,7 @@ Hello! 👋 I'm Pratik Deshpande, a Service Analyst with over 5 years of experie
 
 ## 💬 Ask Me About
 - Creating impactful data visualizations.
-- SQL best practices for data analysis.
-- Strategies to make a career transition into data analytics.
+- SQL best practices for data analysis
 
 ## 🚀 Skills
 - Data Analysis:
